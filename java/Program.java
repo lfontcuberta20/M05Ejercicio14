@@ -1,5 +1,5 @@
 /*
- * Program.java        20.10.2020
+ * Program.java        20.10.2020 Modificar
  *
  * Program to calculate the area and the perimeter
  * of a circle knowing the radius in meter.
